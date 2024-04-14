@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGames xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Games>
+    <Name>The Legend of Zelda</Name>
+    <Genre>RPG</Genre>
+    <Price>3000</Price>
+  </Games>
+  <Games>
+    <Name>Смута</Name>
+    <Genre>RPG</Genre>
+    <Price>100000000</Price>
+  </Games>
+  <Games>
+    <Name>Ведьмак 3</Name>
+    <Genre>RPG</Genre>
+    <Price>1000</Price>
+  </Games>
+  <Games>
+    <Name>Limbus Company</Name>
+    <Genre>Strategy</Genre>
+    <Price>1000</Price>
+  </Games>
+  <Games>
+    <Name>Library of Ruina</Name>
+    <Genre>Strategy</Genre>
+    <Price>1000</Price>
+  </Games>
+</ArrayOfGames>

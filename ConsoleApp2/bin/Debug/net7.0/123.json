@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "The Legend of Zelda",
+    "Genre": "RPG",
+    "Price": 3000
+  },
+  {
+    "Name": "Смута",
+    "Genre": "RPG",
+    "Price": 100000000
+  },
+  {
+    "Name": "Ведьмак 3",
+    "Genre": "RPG",
+    "Price": 1000
+  },
+  {
+    "Name": "Limbus Company",
+    "Genre": "Strategy",
+    "Price": 1000
+  },
+  {
+    "Name": "Library of Ruina",
+    "Genre": "Strategy",
+    "Price": 1000
+  }
+]
